@@ -4,6 +4,7 @@ import zigatoPreview from '../assets/preview/zigatoPreview.png'
 import coinmarket from '../assets/preview/coinMarketPreview.png';
 import travelsite from '../assets/preview/travelsitePreview.png';
 import defi from '../assets/preview/defiPreview.png';
+import Medium from '../assets/preview/Medium.png';
 import info from '../info/info';
 
 const Work = () => {
