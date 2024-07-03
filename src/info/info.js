@@ -3,8 +3,15 @@ import coinmarket from '../assets/preview/coinMarketPreview.png';
 import travelsite from '../assets/preview/travelsitePreview.png';
 import defiPrev from '../assets/preview/defiPreview.png';
 import defi from '../assets/preview/defi.png'
+import Medium from '../assets/preview/Medium.png'
 
 const info = [
+  { 
+    img: Medium,
+    title: 'Medium (Full Stack)',
+    git: 'https://github.com/Msarthaksharma/Medium',
+    live: 'https://medium-frontend-pearl.vercel.app/'
+  },
   { 
     img: zigatoPreview,
     title: 'Zigato Food App',

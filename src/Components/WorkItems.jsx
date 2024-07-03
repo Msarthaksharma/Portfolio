@@ -1,6 +1,7 @@
 import React from 'react';
 
 const WorkItems = (props) => {
+  //work
   return (
     <div>    
       <div style={{backgroundImage:`url(${props.img})`}} className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
